@@ -1,0 +1,4 @@
+- pkg:pypi/cassandra-opentracing@0.0.4
+- pkg:pypi/cassandra-opentracing@0.0.5
+- pkg:pypi/cassandra-opentracing@0.0.7
+- pkg:pypi/cassandra-opentracing@0.0.8
