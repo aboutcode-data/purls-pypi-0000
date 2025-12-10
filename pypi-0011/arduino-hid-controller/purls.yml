@@ -1,0 +1,3 @@
+- pkg:pypi/arduino-hid-controller@2.0.0
+- pkg:pypi/arduino-hid-controller@2.0.1
+- pkg:pypi/arduino-hid-controller@3.0.0
