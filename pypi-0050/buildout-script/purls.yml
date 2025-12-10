@@ -1,0 +1,4 @@
+- pkg:pypi/buildout-script@0.1
+- pkg:pypi/buildout-script@0.2a1
+- pkg:pypi/buildout-script@0.3
+- pkg:pypi/buildout-script@0.3.1
