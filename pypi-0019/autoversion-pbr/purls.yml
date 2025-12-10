@@ -1,0 +1,3 @@
+- pkg:pypi/autoversion-pbr@0.1.0
+- pkg:pypi/autoversion-pbr@0.1.1.dev2
+- pkg:pypi/autoversion-pbr@0.1.2
