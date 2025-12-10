@@ -1,0 +1,4 @@
+- pkg:pypi/aioredis-lock@0.0.1
+- pkg:pypi/aioredis-lock@0.0.2
+- pkg:pypi/aioredis-lock@0.0.3
+- pkg:pypi/aioredis-lock@0.1.0

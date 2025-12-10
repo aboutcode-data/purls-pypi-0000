@@ -1,0 +1,5 @@
+- pkg:pypi/aiohttp-prometheus-exporter@0.1.0a1
+- pkg:pypi/aiohttp-prometheus-exporter@0.1.0a2
+- pkg:pypi/aiohttp-prometheus-exporter@0.2.0
+- pkg:pypi/aiohttp-prometheus-exporter@0.2.1
+- pkg:pypi/aiohttp-prometheus-exporter@0.2.4
