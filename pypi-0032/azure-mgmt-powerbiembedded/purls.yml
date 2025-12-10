@@ -1,0 +1,5 @@
+- pkg:pypi/azure-mgmt-powerbiembedded@0.30.0rc5
+- pkg:pypi/azure-mgmt-powerbiembedded@0.30.0rc6
+- pkg:pypi/azure-mgmt-powerbiembedded@1.0.0
+- pkg:pypi/azure-mgmt-powerbiembedded@2.0.0
+- pkg:pypi/azure-mgmt-powerbiembedded@3.0.0
