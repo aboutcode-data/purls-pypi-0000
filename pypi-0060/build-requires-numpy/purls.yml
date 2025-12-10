@@ -1,0 +1,7 @@
+- pkg:pypi/build-requires-numpy@2019.12.2
+- pkg:pypi/build-requires-numpy@2021.1.11
+- pkg:pypi/build-requires-numpy@2021.10.12
+- pkg:pypi/build-requires-numpy@2021.11.11.2
+- pkg:pypi/build-requires-numpy@2021.8.26
+- pkg:pypi/build-requires-numpy@2022.2.22
+- pkg:pypi/build-requires-numpy@2022.9.26
