@@ -1,0 +1,4 @@
+- pkg:pypi/airflow-provider-mlflow@0.0.0a0
+- pkg:pypi/airflow-provider-mlflow@1.0.0
+- pkg:pypi/airflow-provider-mlflow@1.0.1
+- pkg:pypi/airflow-provider-mlflow@1.1.0

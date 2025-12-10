@@ -1,0 +1,6 @@
+- pkg:pypi/airflow-provider-census@1.0.0
+- pkg:pypi/airflow-provider-census@1.1.0
+- pkg:pypi/airflow-provider-census@1.1.1
+- pkg:pypi/airflow-provider-census@1.2.0
+- pkg:pypi/airflow-provider-census@1.3.0
+- pkg:pypi/airflow-provider-census@2.0.0
