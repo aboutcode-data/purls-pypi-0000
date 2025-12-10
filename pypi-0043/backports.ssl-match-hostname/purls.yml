@@ -1,0 +1,5 @@
+- pkg:pypi/backports.ssl-match-hostname@3.2a3
+- pkg:pypi/backports.ssl-match-hostname@3.4.0.1
+- pkg:pypi/backports.ssl-match-hostname@3.4.0.2
+- pkg:pypi/backports.ssl-match-hostname@3.5.0.1
+- pkg:pypi/backports.ssl-match-hostname@3.7.0.1
