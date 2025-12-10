@@ -1,0 +1,4 @@
+- pkg:pypi/asyncwinrm@0.1
+- pkg:pypi/asyncwinrm@0.2
+- pkg:pypi/asyncwinrm@0.3
+- pkg:pypi/asyncwinrm@0.4
