@@ -1,0 +1,12 @@
+- pkg:pypi/cookiecutter-poetry-example@0.0.11a0
+- pkg:pypi/cookiecutter-poetry-example@0.0.11b0
+- pkg:pypi/cookiecutter-poetry-example@0.0.11rc0
+- pkg:pypi/cookiecutter-poetry-example@0.0.9
+- pkg:pypi/cookiecutter-poetry-example@0.1.1
+- pkg:pypi/cookiecutter-poetry-example@0.2.1
+- pkg:pypi/cookiecutter-poetry-example@0.3.2
+- pkg:pypi/cookiecutter-poetry-example@0.3.4
+- pkg:pypi/cookiecutter-poetry-example@0.3.6
+- pkg:pypi/cookiecutter-poetry-example@0.3.7
+- pkg:pypi/cookiecutter-poetry-example@0.3.8
+- pkg:pypi/cookiecutter-poetry-example@0.4.6
