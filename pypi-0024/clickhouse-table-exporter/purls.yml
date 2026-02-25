@@ -1,0 +1,4 @@
+- pkg:pypi/clickhouse-table-exporter@20230816
+- pkg:pypi/clickhouse-table-exporter@20230817
+- pkg:pypi/clickhouse-table-exporter@20230917
+- pkg:pypi/clickhouse-table-exporter@20240620
