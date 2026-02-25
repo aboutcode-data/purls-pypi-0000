@@ -2,6 +2,8 @@
 - pkg:pypi/amd-debug-tools@0.2.1
 - pkg:pypi/amd-debug-tools@0.2.10
 - pkg:pypi/amd-debug-tools@0.2.11
+- pkg:pypi/amd-debug-tools@0.2.12
+- pkg:pypi/amd-debug-tools@0.2.13
 - pkg:pypi/amd-debug-tools@0.2.2
 - pkg:pypi/amd-debug-tools@0.2.3
 - pkg:pypi/amd-debug-tools@0.2.4

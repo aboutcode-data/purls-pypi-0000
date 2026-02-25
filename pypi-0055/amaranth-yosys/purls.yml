@@ -50,4 +50,7 @@
 - pkg:pypi/amaranth-yosys@0.50.0.0.post116
 - pkg:pypi/amaranth-yosys@0.50.0.0.post117
 - pkg:pypi/amaranth-yosys@0.50.0.0.post118
+- pkg:pypi/amaranth-yosys@0.50.0.0.post119
+- pkg:pypi/amaranth-yosys@0.50.0.0.post120
+- pkg:pypi/amaranth-yosys@0.50.0.0.post121
 - pkg:pypi/amaranth-yosys@0.9.post3746.dev41
