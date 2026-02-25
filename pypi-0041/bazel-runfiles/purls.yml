@@ -73,3 +73,16 @@
 - pkg:pypi/bazel-runfiles@1.7.0rc4
 - pkg:pypi/bazel-runfiles@1.7.0rc5
 - pkg:pypi/bazel-runfiles@1.7.0rc6
+- pkg:pypi/bazel-runfiles@1.8.0
+- pkg:pypi/bazel-runfiles@1.8.0rc0
+- pkg:pypi/bazel-runfiles@1.8.0rc1
+- pkg:pypi/bazel-runfiles@1.8.0rc2
+- pkg:pypi/bazel-runfiles@1.8.0rc3
+- pkg:pypi/bazel-runfiles@1.8.0rc4
+- pkg:pypi/bazel-runfiles@1.8.1
+- pkg:pypi/bazel-runfiles@1.8.2
+- pkg:pypi/bazel-runfiles@1.8.3
+- pkg:pypi/bazel-runfiles@1.8.4
+- pkg:pypi/bazel-runfiles@1.8.5
+- pkg:pypi/bazel-runfiles@1.9.0rc0
+- pkg:pypi/bazel-runfiles@1.9.0rc1
