@@ -25,7 +25,11 @@
 - pkg:pypi/ampel-core@0.10.6a16
 - pkg:pypi/ampel-core@0.10.6a17
 - pkg:pypi/ampel-core@0.10.6a18
+- pkg:pypi/ampel-core@0.10.6a19
 - pkg:pypi/ampel-core@0.10.6a2
+- pkg:pypi/ampel-core@0.10.6a20
+- pkg:pypi/ampel-core@0.10.6a21
+- pkg:pypi/ampel-core@0.10.6a22
 - pkg:pypi/ampel-core@0.10.6a3
 - pkg:pypi/ampel-core@0.10.6a4
 - pkg:pypi/ampel-core@0.10.6a5
