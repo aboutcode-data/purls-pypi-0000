@@ -4,3 +4,5 @@
 - pkg:pypi/benchmark-utils@0.2.1
 - pkg:pypi/benchmark-utils@0.2.3
 - pkg:pypi/benchmark-utils@0.2.4
+- pkg:pypi/benchmark-utils@0.2.5
+- pkg:pypi/benchmark-utils@0.2.5.dev0

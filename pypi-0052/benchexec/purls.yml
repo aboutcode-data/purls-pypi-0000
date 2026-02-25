@@ -57,6 +57,8 @@
 - pkg:pypi/benchexec@3.30
 - pkg:pypi/benchexec@3.31
 - pkg:pypi/benchexec@3.32
+- pkg:pypi/benchexec@3.33
+- pkg:pypi/benchexec@3.34
 - pkg:pypi/benchexec@3.4
 - pkg:pypi/benchexec@3.5
 - pkg:pypi/benchexec@3.6

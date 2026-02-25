@@ -67,6 +67,8 @@
 - pkg:pypi/bencode2@0.3.25a4
 - pkg:pypi/bencode2@0.3.26
 - pkg:pypi/bencode2@0.3.27
+- pkg:pypi/bencode2@0.3.28
+- pkg:pypi/bencode2@0.3.29
 - pkg:pypi/bencode2@0.3.3
 - pkg:pypi/bencode2@0.3.4
 - pkg:pypi/bencode2@0.3.5
