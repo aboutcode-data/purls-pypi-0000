@@ -44,3 +44,4 @@
 - pkg:pypi/asyncua@1.1.5
 - pkg:pypi/asyncua@1.1.6
 - pkg:pypi/asyncua@1.1.8
+- pkg:pypi/asyncua@1.2b1
