@@ -17,3 +17,6 @@
 - pkg:pypi/certreport@3.3.1
 - pkg:pypi/certreport@3.3.1.1
 - pkg:pypi/certreport@3.3.2
+- pkg:pypi/certreport@3.3.3
+- pkg:pypi/certreport@3.3.3.1
+- pkg:pypi/certreport@3.4
