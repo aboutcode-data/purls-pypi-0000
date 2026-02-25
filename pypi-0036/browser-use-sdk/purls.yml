@@ -10,6 +10,9 @@
 - pkg:pypi/browser-use-sdk@2.0.10
 - pkg:pypi/browser-use-sdk@2.0.11
 - pkg:pypi/browser-use-sdk@2.0.12
+- pkg:pypi/browser-use-sdk@2.0.13
+- pkg:pypi/browser-use-sdk@2.0.14
+- pkg:pypi/browser-use-sdk@2.0.15
 - pkg:pypi/browser-use-sdk@2.0.2
 - pkg:pypi/browser-use-sdk@2.0.3
 - pkg:pypi/browser-use-sdk@2.0.4
@@ -18,3 +21,4 @@
 - pkg:pypi/browser-use-sdk@2.0.7
 - pkg:pypi/browser-use-sdk@2.0.8
 - pkg:pypi/browser-use-sdk@2.0.9
+- pkg:pypi/browser-use-sdk@3.0.2
