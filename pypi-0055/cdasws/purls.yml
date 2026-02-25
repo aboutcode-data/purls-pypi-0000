@@ -42,6 +42,9 @@
 - pkg:pypi/cdasws@1.8.10
 - pkg:pypi/cdasws@1.8.11
 - pkg:pypi/cdasws@1.8.12
+- pkg:pypi/cdasws@1.8.13
+- pkg:pypi/cdasws@1.8.14
+- pkg:pypi/cdasws@1.8.15
 - pkg:pypi/cdasws@1.8.2
 - pkg:pypi/cdasws@1.8.3
 - pkg:pypi/cdasws@1.8.4
