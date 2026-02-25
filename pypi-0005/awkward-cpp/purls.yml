@@ -75,6 +75,8 @@
 - pkg:pypi/awkward-cpp@49
 - pkg:pypi/awkward-cpp@5
 - pkg:pypi/awkward-cpp@50
+- pkg:pypi/awkward-cpp@51
+- pkg:pypi/awkward-cpp@52
 - pkg:pypi/awkward-cpp@6
 - pkg:pypi/awkward-cpp@7
 - pkg:pypi/awkward-cpp@8

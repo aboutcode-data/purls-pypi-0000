@@ -12,4 +12,5 @@
 - pkg:pypi/avocado-framework-plugin-ansible@110.0
 - pkg:pypi/avocado-framework-plugin-ansible@111.0
 - pkg:pypi/avocado-framework-plugin-ansible@112.0
+- pkg:pypi/avocado-framework-plugin-ansible@113.0
 - pkg:pypi/avocado-framework-plugin-ansible@99.0
