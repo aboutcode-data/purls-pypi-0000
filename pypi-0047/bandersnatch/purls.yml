@@ -61,3 +61,5 @@
 - pkg:pypi/bandersnatch@6.7.0
 - pkg:pypi/bandersnatch@6.8.0
 - pkg:pypi/bandersnatch@7.0.0
+- pkg:pypi/bandersnatch@7.0.1
+- pkg:pypi/bandersnatch@7.1.0

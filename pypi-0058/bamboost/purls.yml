@@ -6,6 +6,8 @@
 - pkg:pypi/bamboost@0.11.1
 - pkg:pypi/bamboost@0.11.2
 - pkg:pypi/bamboost@0.11.3
+- pkg:pypi/bamboost@0.12.0
+- pkg:pypi/bamboost@0.12.1
 - pkg:pypi/bamboost@0.3.0
 - pkg:pypi/bamboost@0.4.0
 - pkg:pypi/bamboost@0.4.1
