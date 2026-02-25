@@ -30,3 +30,6 @@
 - pkg:pypi/bd-scan-yocto-via-sbom@1.2.5
 - pkg:pypi/bd-scan-yocto-via-sbom@1.3.0
 - pkg:pypi/bd-scan-yocto-via-sbom@1.3.1
+- pkg:pypi/bd-scan-yocto-via-sbom@1.3.2
+- pkg:pypi/bd-scan-yocto-via-sbom@1.4.0
+- pkg:pypi/bd-scan-yocto-via-sbom@1.4.1

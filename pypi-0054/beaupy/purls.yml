@@ -16,6 +16,7 @@
 - pkg:pypi/beaupy@3.10.0
 - pkg:pypi/beaupy@3.10.1
 - pkg:pypi/beaupy@3.10.2
+- pkg:pypi/beaupy@3.11.0
 - pkg:pypi/beaupy@3.2.0
 - pkg:pypi/beaupy@3.3.0
 - pkg:pypi/beaupy@3.4.0
