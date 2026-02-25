@@ -48,6 +48,8 @@
 - pkg:pypi/asfpy@0.54
 - pkg:pypi/asfpy@0.55
 - pkg:pypi/asfpy@0.56
+- pkg:pypi/asfpy@0.57
+- pkg:pypi/asfpy@0.58
 - pkg:pypi/asfpy@0.6
 - pkg:pypi/asfpy@0.7
 - pkg:pypi/asfpy@0.8
