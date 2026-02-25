@@ -4,3 +4,7 @@
 - pkg:pypi/aa-dependency-overrides@0.4.0
 - pkg:pypi/aa-dependency-overrides@0.5.0
 - pkg:pypi/aa-dependency-overrides@0.6.0
+- pkg:pypi/aa-dependency-overrides@0.7.0
+- pkg:pypi/aa-dependency-overrides@0.7.1
+- pkg:pypi/aa-dependency-overrides@0.8.0
+- pkg:pypi/aa-dependency-overrides@0.9.0
