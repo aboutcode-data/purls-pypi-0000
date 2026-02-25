@@ -38,6 +38,7 @@
 - pkg:pypi/cassandra-medusa@0.25.0
 - pkg:pypi/cassandra-medusa@0.25.1
 - pkg:pypi/cassandra-medusa@0.26.0
+- pkg:pypi/cassandra-medusa@0.27.0
 - pkg:pypi/cassandra-medusa@0.3.0
 - pkg:pypi/cassandra-medusa@0.3.1
 - pkg:pypi/cassandra-medusa@0.4.1

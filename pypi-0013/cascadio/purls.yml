@@ -3,6 +3,7 @@
 - pkg:pypi/cascadio@0.0.13
 - pkg:pypi/cascadio@0.0.14
 - pkg:pypi/cascadio@0.0.15
-- pkg:pypi/cascadio@0.0.15rc0
 - pkg:pypi/cascadio@0.0.16
 - pkg:pypi/cascadio@0.0.17
+- pkg:pypi/cascadio@0.0.18rc3
+- pkg:pypi/cascadio@0.0.18rc5

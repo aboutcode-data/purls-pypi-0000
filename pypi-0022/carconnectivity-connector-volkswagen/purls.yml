@@ -1,4 +1,10 @@
 - pkg:pypi/carconnectivity-connector-volkswagen@0.1
+- pkg:pypi/carconnectivity-connector-volkswagen@0.10
+- pkg:pypi/carconnectivity-connector-volkswagen@0.10.1
+- pkg:pypi/carconnectivity-connector-volkswagen@0.10.2
+- pkg:pypi/carconnectivity-connector-volkswagen@0.10.3
+- pkg:pypi/carconnectivity-connector-volkswagen@0.10.4
+- pkg:pypi/carconnectivity-connector-volkswagen@0.10a1
 - pkg:pypi/carconnectivity-connector-volkswagen@0.1a2
 - pkg:pypi/carconnectivity-connector-volkswagen@0.1a3
 - pkg:pypi/carconnectivity-connector-volkswagen@0.1a4

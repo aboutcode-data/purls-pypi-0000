@@ -59,3 +59,4 @@
 - pkg:pypi/cargo-lambda@1.8.4
 - pkg:pypi/cargo-lambda@1.8.5
 - pkg:pypi/cargo-lambda@1.8.6
+- pkg:pypi/cargo-lambda@1.9.0

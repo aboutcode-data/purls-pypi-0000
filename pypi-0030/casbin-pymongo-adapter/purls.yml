@@ -7,3 +7,4 @@
 - pkg:pypi/casbin-pymongo-adapter@1.4.0
 - pkg:pypi/casbin-pymongo-adapter@1.5.0
 - pkg:pypi/casbin-pymongo-adapter@1.6.0
+- pkg:pypi/casbin-pymongo-adapter@1.7.0
