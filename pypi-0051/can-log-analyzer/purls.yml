@@ -1,1 +1,3 @@
 - pkg:pypi/can-log-analyzer@25.0.0
+- pkg:pypi/can-log-analyzer@26.0.0
+- pkg:pypi/can-log-analyzer@26.0.1
