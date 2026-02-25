@@ -1,0 +1,3 @@
+- pkg:pypi/connexion-aiohttp@0.9.0
+- pkg:pypi/connexion-aiohttp@1.4
+- pkg:pypi/connexion-aiohttp@1.5
