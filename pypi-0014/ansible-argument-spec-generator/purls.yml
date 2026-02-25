@@ -1,3 +1,4 @@
 - pkg:pypi/ansible-argument-spec-generator@1.0.0
 - pkg:pypi/ansible-argument-spec-generator@1.0.0.post1
 - pkg:pypi/ansible-argument-spec-generator@1.0.1
+- pkg:pypi/ansible-argument-spec-generator@1.1.0
