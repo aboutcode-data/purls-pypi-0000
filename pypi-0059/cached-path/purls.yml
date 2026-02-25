@@ -38,3 +38,5 @@
 - pkg:pypi/cached-path@1.7.3
 - pkg:pypi/cached-path@1.7.4
 - pkg:pypi/cached-path@1.8.0
+- pkg:pypi/cached-path@1.8.1
+- pkg:pypi/cached-path@1.8.9
