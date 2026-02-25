@@ -14,3 +14,4 @@
 - pkg:pypi/bifacial-radiance@0.4.4
 - pkg:pypi/bifacial-radiance@0.5.0
 - pkg:pypi/bifacial-radiance@0.5.0.dev0
+- pkg:pypi/bifacial-radiance@0.5.1
