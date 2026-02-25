@@ -11,6 +11,10 @@
 - pkg:pypi/aptapy@0.16.0
 - pkg:pypi/aptapy@0.17.0
 - pkg:pypi/aptapy@0.17.1
+- pkg:pypi/aptapy@0.17.2
+- pkg:pypi/aptapy@0.18.0
+- pkg:pypi/aptapy@0.19.0
+- pkg:pypi/aptapy@0.19.1
 - pkg:pypi/aptapy@0.2.0
 - pkg:pypi/aptapy@0.3.0
 - pkg:pypi/aptapy@0.3.1

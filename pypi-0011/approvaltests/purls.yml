@@ -76,6 +76,12 @@
 - pkg:pypi/approvaltests@16.0.1
 - pkg:pypi/approvaltests@16.1.0
 - pkg:pypi/approvaltests@16.2.0
+- pkg:pypi/approvaltests@16.2.1
+- pkg:pypi/approvaltests@16.2.2
+- pkg:pypi/approvaltests@16.3.0
+- pkg:pypi/approvaltests@17.0.0
+- pkg:pypi/approvaltests@17.1.0
+- pkg:pypi/approvaltests@17.1.1
 - pkg:pypi/approvaltests@2.0.0
 - pkg:pypi/approvaltests@2.1.0
 - pkg:pypi/approvaltests@2.2.0

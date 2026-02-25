@@ -4,6 +4,7 @@
 - pkg:pypi/aprofiles@0.10.2
 - pkg:pypi/aprofiles@0.10.3
 - pkg:pypi/aprofiles@0.10.4
+- pkg:pypi/aprofiles@0.10.5
 - pkg:pypi/aprofiles@0.10.6
 - pkg:pypi/aprofiles@0.11.0
 - pkg:pypi/aprofiles@0.11.1
@@ -21,6 +22,7 @@
 - pkg:pypi/aprofiles@0.14.0
 - pkg:pypi/aprofiles@0.14.1
 - pkg:pypi/aprofiles@0.14.2
+- pkg:pypi/aprofiles@0.15.0
 - pkg:pypi/aprofiles@0.2.0
 - pkg:pypi/aprofiles@0.2.1
 - pkg:pypi/aprofiles@0.2.2
