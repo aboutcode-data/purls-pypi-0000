@@ -14,3 +14,4 @@
 - pkg:pypi/arrow-mssql@0.0.86
 - pkg:pypi/arrow-mssql@0.0.87
 - pkg:pypi/arrow-mssql@0.0.88
+- pkg:pypi/arrow-mssql@0.0.89
