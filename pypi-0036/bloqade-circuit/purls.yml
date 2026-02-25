@@ -3,6 +3,14 @@
 - pkg:pypi/bloqade-circuit@0.10.1
 - pkg:pypi/bloqade-circuit@0.10.2
 - pkg:pypi/bloqade-circuit@0.10.3
+- pkg:pypi/bloqade-circuit@0.10.4
+- pkg:pypi/bloqade-circuit@0.10.5
+- pkg:pypi/bloqade-circuit@0.10.6
+- pkg:pypi/bloqade-circuit@0.10.7
+- pkg:pypi/bloqade-circuit@0.11.0
+- pkg:pypi/bloqade-circuit@0.11.1
+- pkg:pypi/bloqade-circuit@0.11.2
+- pkg:pypi/bloqade-circuit@0.12.0
 - pkg:pypi/bloqade-circuit@0.2.0
 - pkg:pypi/bloqade-circuit@0.2.1
 - pkg:pypi/bloqade-circuit@0.2.2
