@@ -17,6 +17,7 @@
 - pkg:pypi/ansys-geometry-core@0.13.0
 - pkg:pypi/ansys-geometry-core@0.14.0
 - pkg:pypi/ansys-geometry-core@0.14.1
+- pkg:pypi/ansys-geometry-core@0.14.2
 - pkg:pypi/ansys-geometry-core@0.2.10
 - pkg:pypi/ansys-geometry-core@0.3.0
 - pkg:pypi/ansys-geometry-core@0.3.1
