@@ -26,6 +26,12 @@
 - pkg:pypi/caluma@12.2.1
 - pkg:pypi/caluma@12.2.2
 - pkg:pypi/caluma@12.2.3
+- pkg:pypi/caluma@12.2.4
+- pkg:pypi/caluma@12.2.5
+- pkg:pypi/caluma@12.3.0
+- pkg:pypi/caluma@12.3.1
+- pkg:pypi/caluma@12.3.2
+- pkg:pypi/caluma@12.3.3
 - pkg:pypi/caluma@5.2.1
 - pkg:pypi/caluma@5.3.0
 - pkg:pypi/caluma@5.3.1
