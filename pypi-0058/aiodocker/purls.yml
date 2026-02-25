@@ -31,6 +31,8 @@
 - pkg:pypi/aiodocker@0.22.2
 - pkg:pypi/aiodocker@0.23.0
 - pkg:pypi/aiodocker@0.24.0
+- pkg:pypi/aiodocker@0.25.0
+- pkg:pypi/aiodocker@0.26.0
 - pkg:pypi/aiodocker@0.3
 - pkg:pypi/aiodocker@0.4
 - pkg:pypi/aiodocker@0.5
