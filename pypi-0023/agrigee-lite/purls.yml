@@ -27,6 +27,11 @@
 - pkg:pypi/agrigee-lite@2.0.0
 - pkg:pypi/agrigee-lite@2.0.1
 - pkg:pypi/agrigee-lite@2.0.10
+- pkg:pypi/agrigee-lite@2.0.11
+- pkg:pypi/agrigee-lite@2.0.12
+- pkg:pypi/agrigee-lite@2.0.14
+- pkg:pypi/agrigee-lite@2.0.15
+- pkg:pypi/agrigee-lite@2.0.16
 - pkg:pypi/agrigee-lite@2.0.2
 - pkg:pypi/agrigee-lite@2.0.3
 - pkg:pypi/agrigee-lite@2.0.4

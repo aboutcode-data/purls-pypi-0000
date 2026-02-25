@@ -19,6 +19,9 @@
 - pkg:pypi/aicodec@2.11.2
 - pkg:pypi/aicodec@2.11.3
 - pkg:pypi/aicodec@2.12.0
+- pkg:pypi/aicodec@2.12.1
+- pkg:pypi/aicodec@2.12.5
+- pkg:pypi/aicodec@2.12.6
 - pkg:pypi/aicodec@2.2.0
 - pkg:pypi/aicodec@2.2.2
 - pkg:pypi/aicodec@2.3.0
