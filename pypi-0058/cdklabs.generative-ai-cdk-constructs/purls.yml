@@ -242,6 +242,8 @@
 - pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.310
 - pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.311
 - pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.312
+- pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.313
+- pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.314
 - pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.32
 - pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.33
 - pkg:pypi/cdklabs.generative-ai-cdk-constructs@0.1.34
