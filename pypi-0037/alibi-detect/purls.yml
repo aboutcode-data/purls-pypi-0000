@@ -13,6 +13,7 @@
 - pkg:pypi/alibi-detect@0.11.4
 - pkg:pypi/alibi-detect@0.11.5
 - pkg:pypi/alibi-detect@0.12.0
+- pkg:pypi/alibi-detect@0.13.0
 - pkg:pypi/alibi-detect@0.2.0
 - pkg:pypi/alibi-detect@0.3.0
 - pkg:pypi/alibi-detect@0.3.1

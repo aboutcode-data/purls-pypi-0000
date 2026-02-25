@@ -66,7 +66,12 @@
 - pkg:pypi/alibuild@1.17.34
 - pkg:pypi/alibuild@1.17.34a1
 - pkg:pypi/alibuild@1.17.35
+- pkg:pypi/alibuild@1.17.36
+- pkg:pypi/alibuild@1.17.37
+- pkg:pypi/alibuild@1.17.38
+- pkg:pypi/alibuild@1.17.39
 - pkg:pypi/alibuild@1.17.4
+- pkg:pypi/alibuild@1.17.40
 - pkg:pypi/alibuild@1.17.5
 - pkg:pypi/alibuild@1.17.6
 - pkg:pypi/alibuild@1.17.7
