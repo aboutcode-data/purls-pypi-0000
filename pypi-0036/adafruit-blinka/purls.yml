@@ -303,6 +303,8 @@
 - pkg:pypi/adafruit-blinka@8.66.2
 - pkg:pypi/adafruit-blinka@8.67.0
 - pkg:pypi/adafruit-blinka@8.68.0
+- pkg:pypi/adafruit-blinka@8.68.1
+- pkg:pypi/adafruit-blinka@8.69.0
 - pkg:pypi/adafruit-blinka@8.7.0
 - pkg:pypi/adafruit-blinka@8.8.0
 - pkg:pypi/adafruit-blinka@8.9.0
